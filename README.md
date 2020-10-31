@@ -6,6 +6,14 @@
 
 # Python API Homework - What's the Weather Like?
 
+## Final Heatmaps
+
+Heatmap with markers
+![FinalMap](Images/myHeatmap_with_markers.png)
+
+First heatmap (no markers)
+![FirstMap](Images/myHeatmap_firstMap_noMarkers.png)
+
 ## Background
 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
