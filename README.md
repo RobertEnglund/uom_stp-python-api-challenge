@@ -6,6 +6,12 @@
 
 # Python API Homework - What's the Weather Like?
 
+## Three observations from Part I
+
+1. There is a strong correlation between temperature and latitude for cities in the northern hemisphere
+2. There seems to be a correlation betwen temperature and latitude for cities in the southern hemisphere, but not strong
+3. There is no correlation between any of the other metrics (humidity, wind, cloudiness) and latitude for any of the cities
+
 ## Final Heatmaps
 
 Screenshots of heatmaps in the Images folder
