@@ -8,6 +8,8 @@
 
 ## Final Heatmaps
 
+Screenshots of heatmaps in the Images folder
+
 Heatmap with markers
 ![Markers](Images/myHeatmap_with_markers.PNG)
 
