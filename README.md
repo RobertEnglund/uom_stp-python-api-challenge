@@ -9,10 +9,10 @@
 ## Final Heatmaps
 
 Heatmap with markers
-![Equator](Images/myHeatmap_with_markers.png)
+![Markers](Images/myHeatmap_with_markers.PNG)
 
 First heatmap (no markers)
-![Equator](Images/myHeatmap_firstMap_noMarkers.png)
+![NoMarkers](Images/myHeatmap_firstMap_noMarkers.PNG)
 
 ## Background
 
